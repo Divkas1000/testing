@@ -1,0 +1,54 @@
+{
+	"input": {
+		"description": "Samplesheet with sample locations.",
+		"optional": false
+	},
+	"cprimers": {
+		"description": "S3 path to cprimers file",
+		"optional": false
+	},
+	"vprimers": {
+		"description": "S3 path to vprimers file",
+		"optional": false
+	},
+	"imgtdb_base": {
+		"description": "S3 path to imgtdb_base file",
+		"optional": false
+	},
+	"index_file": {
+		"description": "index_file",
+		"optional": false
+	},
+	"clonal_threshold": {
+		"description": "clonal_threshold",
+		"optional": false
+	},
+	"umi_length": {
+		"description": "umi_length",
+		"optional": false
+	},
+	"umi_position": {
+		"description": "umi_position",
+		"optional": false
+	},
+	"outdir": {
+		"description": "outdir",
+		"optional": false
+	},
+	"igblast_base": {
+		"description": "igblast_base",
+		"optional": false
+	},
+	"mode": {
+		"description": "mode",
+		"optional": false
+	},
+	"library_generation_method": {
+		"description": "library_generation_method",
+		"optional": false
+	},
+	"profile": {
+		"description": "profile",
+		"optional": false
+	}
+}
